@@ -24,8 +24,8 @@ The dataset contains mainly categorical variables.
 # KEY LINKS TO THE FILES
 
 * [DATASET (CSV FILE)](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/SFO_EMS_FINAL_120619.csv)
-* [FINAL NOTEBOOK](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/FINAL FAB4 - Project Notebook - 120819.ipynb)
-* [POWERPOINT FOR PRESENTATION](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/FINAL FAB4 - Project Presentation - 120819.ppt)
+* [FINAL NOTEBOOK](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/FINAL_FAB4_-_Project_Notebook_-_120819.ipynb)
+* [POWERPOINT FOR PRESENTATION](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/FINAL_FAB4_-_Project_Presentation_-_120819.ppt)
 * [SAN FRANCISCO NEIGHBORHOOD YELP MAP](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/sf_yelp_map.png)
-* [FIRE STATION LOCATION MAP](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/SFFD Fire Station Locations-PNG.png)
+* [FIRE STATION LOCATION MAP](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/SFFD_Fire_Station_Locations-PNG.png)
 * [SAN FRANCISCO GEOJSON DATA](https://github.com/Fairfield-University-BA505/final-project-fa2019-fab4/blob/master/san-francisco.geojson)
